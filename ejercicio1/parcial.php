@@ -7,21 +7,23 @@
 
 	
 	
-       <h1>calcular la definitiva</h1>
+       <h1>Nota Definitiva</h1>
            
            <strong> introduzca su nombre</strong>
 
-          <FORM ACTION= "definitiva.php" METHOD= "post">
+          <FORM ACTION= "parcial1.php" METHOD= "post">
         
           <INPUT TYPE="text"NAME="nombre"><br><br>
-          Nota 1
+          Nota parcial 1
           <INPUT TYPE="text"NAME="nota1"><br>
-          Nota 2
+          Nota parcial 2
           <INPUT TYPE="text"NAME="nota2"><br>
-          Nota 3
+          Nota parcial 3
           <INPUT TYPE="text"NAME="nota3"><br>
-          Nota 4
+          Nota examen final
           <INPUT TYPE="text"NAME="nota4"><br>
+          Nota trabajo final
+          <INPUT TYPE="text"NAME="nota5"><br>
 
           <INPUT TYPE="submit" value="enviar">
 
